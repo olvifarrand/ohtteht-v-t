@@ -1,0 +1,21 @@
+body {
+    background-color: #e6f8ff;
+}
+header {
+    background-color: #e9b7d3;
+    padding: 12px;
+    text-align: center;
+}
+
+footer {
+    background-color: #e9b7d3;
+    padding: 12px;
+    text-align: center;
+}
+
+
+
+.text1 {
+    color: rgb(64, 18, 151);
+    padding: 12px;
+}
